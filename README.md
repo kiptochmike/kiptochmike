@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mike Kiptoch</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiptochmike&label=Profile%20views&color=0e75b6&style=flat" alt="kiptochmike" /> </p>
-<img align="right" alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstemettes.org%2Fzine%2Farticles%2Fhow-my-love-of-maths-led-to-my-career-in-data-science-at-mi6%2F&psig=AOvVaw2XicNDLqP5JWyzzOe4iV4q&ust=1708070441304000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDD4bHwrIQDFQAAAAAdAAAAABAP">
+<img align="right" alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstemettes.org%2Fzine%2Farticles%2Fhow-my-love-of-maths-led-to-my-career-in-data-science-at-mi6%2F&psig=AOvVaw2XicNDLqP5JWyzzOe4iV4q&ust=1708070441304000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDD4bHwrIQDFQAAAAAdAAAAABAP"/>
 
 
 - 💬 Ask me about **Python & Machine Learning & A.I **
