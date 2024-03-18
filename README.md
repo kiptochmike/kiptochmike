@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mike Kiptoch</h1>
 
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/FpevNY3ZMLtzconcA"/>
 
-- 💬 Ask me about **Python & Machine Learning & A.I **
+- 💬 Ask me about **Python , Machine Learning & A.I **
 
 - 📫 How to reach me **kiptochmike33@gmail.com**
 
