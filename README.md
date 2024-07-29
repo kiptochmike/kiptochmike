@@ -4,7 +4,7 @@
 
 
 
-- 💬 Ask me about **Python ,Machine Learning & A.I**
+- 💬 Ask me about **Python ,Machine Learning, N.L.P, Feature Engineering, Deployment , Performance Tuning & Data Analysis**
 
 - 📫 How to reach me **kiptochmike33@gmail.com**
 
